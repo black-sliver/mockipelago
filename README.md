@@ -9,7 +9,7 @@ See [sample.py](sample.py).
 
 ## But why?
 
-The goal is to be able to do automated testing of clients.
+The goal is to be able to do automated and semi-automated testing of clients and client libs.
 
 ### Why not extend upstream MultiServer?
 
